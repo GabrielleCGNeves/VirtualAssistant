@@ -1,13 +1,3 @@
-EVA
-
-IMAGEM
-Autores
-
-O que é?
-Tecnologias
-Como executar
-Exemplos de comandos
-
 <h1 align="center">Eva</h1>
 
 <div align=center>
